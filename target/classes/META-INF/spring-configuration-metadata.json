@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "security",
+      "type": "com.desafio.lab.sec.oauth.jwt.ds.config.SecurityProperties",
+      "sourceType": "com.desafio.lab.sec.oauth.jwt.ds.config.SecurityProperties"
+    },
+    {
+      "name": "security.jwt",
+      "type": "com.desafio.lab.sec.oauth.jwt.ds.config.SecurityProperties$JwtProperties",
+      "sourceType": "com.desafio.lab.sec.oauth.jwt.ds.config.SecurityProperties",
+      "sourceMethod": "getJwt()"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}

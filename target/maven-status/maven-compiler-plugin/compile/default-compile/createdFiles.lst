@@ -1,0 +1,6 @@
+com\desafio\lab\sec\oauth\jwt\ds\config\SecurityProperties.class
+com\desafio\lab\sec\oauth\jwt\ds\config\SecurityProperties$JwtProperties.class
+com\desafio\lab\sec\oauth\jwt\ds\config\WebSecurityConfiguration.class
+com\desafio\lab\sec\oauth\jwt\ds\ResourceServerJwtApplication.class
+com\desafio\lab\sec\oauth\jwt\ds\web\UserController.class
+com\desafio\lab\sec\oauth\jwt\ds\config\ResourceServerConfiguration.class
